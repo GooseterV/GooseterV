@@ -1,8 +1,4 @@
-## GooseterV
 
-### Hi, i'm Goose 👋
-He/him
-Decent python dev
 
 
 <!--
