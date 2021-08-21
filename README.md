@@ -1,6 +1,6 @@
-### GooseterV
+## GooseterV
 
-# Hi, i'm Goose 👋
+### Hi, i'm Goose 👋
 He/him
 Decent python dev
 
