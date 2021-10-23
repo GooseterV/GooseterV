@@ -18,9 +18,9 @@
 
 ## GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gooseterv&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="GooseterV"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gooseterv&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="GooseterV" style="margin-bottom:25px;"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GooseterV&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DD1CB7&stroke=DD1CB7&fire=DD1CB7" alt="GooseterV" style="margin-top: 25px;"/></p>
+<p style="margin-top:25px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GooseterV&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DD1CB7&stroke=DD1CB7&fire=DD1CB7" alt="GooseterV" style="margin-top: 25px;"/></p>
  
 <br />
  
