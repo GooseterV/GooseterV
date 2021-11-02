@@ -1,10 +1,16 @@
 
 ## Hi, I'm Gus (●'◡'●)
+
 he/him, python dev
+</br>
 addicted to all things winter
+</br>
 i play too much apex
+</br>
 i watch too much anime
+</br>
 average card game enthusiast
+</br>
 if you need something contact me on discord at Goose#4825
 
 
