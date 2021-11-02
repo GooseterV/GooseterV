@@ -1,7 +1,11 @@
 
-## Hi, I'm Goose (●'◡'●)
-
-
+## Hi, I'm Gus (●'◡'●)
+he/him, python dev
+addicted to all things winter
+i play too much apex
+i watch too much anime
+average card game enthusiast
+if you need something contact me on discord at Goose#4825
 
 
 ### Languages
