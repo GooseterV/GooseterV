@@ -21,7 +21,7 @@ if you need something contact me on discord at Goose#4825
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 <br/>
 ![Python](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge&logo=python&logoColor=black)&nbsp;
-![Lua](https://img.shields.io/badge/LUA-5f574f ?style=for-the-badge&logo=lua&logoColor=black)&nbsp;
+![Lua](https://img.shields.io/badge/LUA-5f574f?style=for-the-badge&logo=lua&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 <br/>
 
