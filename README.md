@@ -16,13 +16,13 @@ if you need something contact me on discord at Goose#4825
 
 ### Languages
 
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-2965f1??style=flat&logo=css3&logoColor=black)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-2965f1??style=flat-square&logo=css3&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)&nbsp;
 <br/>
-![Python](https://img.shields.io/badge/PYTHON-4B8BBE?style=flatlogo=python&logoColor=black)&nbsp;
-![Lua](https://img.shields.io/badge/LUA-0000ff?style=flat&logo=lua&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-f89820?style=flat&logo=java&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-4B8BBE?style=flat-square&logo=python&logoColor=black)&nbsp;
+![Lua](https://img.shields.io/badge/LUA-0000ff?style=flat-square&logo=lua&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=black)&nbsp;
 <br/>
 
 
