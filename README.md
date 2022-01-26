@@ -44,7 +44,7 @@ i'm fluent and english and spanish, decent speaking skills in japanese (still le
  
 <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gooseterv&bg_color=000000&color=ff69b4&line=ff69b4&point=fff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gooseterv&theme=gotham)  
 
 
 
