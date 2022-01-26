@@ -17,14 +17,16 @@ if you need something contact me on discord at Goose#4825
 
 ### Languages
 
-![JavaScript](https://user-images.githubusercontent.com/82774618/151195705-c8c2d73e-7fd5-4bc2-8f99-8921f7351db7.png)
-![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=black&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-2965f1?logo=css3&logoColor=black&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
+![HTML](https://user-images.githubusercontent.com/82774618/151198706-11327e82-9cf1-4b71-b204-c7f7eec8c682.png)
+![CSS](https://user-images.githubusercontent.com/82774618/151198707-588b9a95-c818-4fb1-8777-7f3680a31509.png)
+![JavaScript](https://user-images.githubusercontent.com/82774618/151198710-21a20a40-a239-46a0-8659-745dbf5fc20d.png)
+
 <br/>
-![Python](https://img.shields.io/badge/PYTHON-4B8BBE?logo=python&logoColor=black&style=for-the-badge)&nbsp;
-![Lua](https://img.shields.io/badge/LUA-0000ff?logo=lua&logoColor=black&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/Java-f89820?logo=java&logoColor=black&style=for-the-badge)&nbsp;
+![Lua](https://user-images.githubusercontent.com/82774618/151198790-3ca42468-cb91-4952-bfc4-059bae341ca2.png)
+![Java](https://user-images.githubusercontent.com/82774618/151198792-d68e4242-62ba-451b-a739-a0dcdff42565.png)
+![Python](https://user-images.githubusercontent.com/82774618/151198832-c0ec455a-cbd9-4c52-ac56-478648ef247b.png)
+
+
 <br/>
 
 
