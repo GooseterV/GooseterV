@@ -26,6 +26,8 @@ i'm fluent and english and spanish, decent speaking skills in japanese (still le
 ![Java](https://user-images.githubusercontent.com/82774618/151198792-d68e4242-62ba-451b-a739-a0dcdff42565.png)
 ![Python](https://user-images.githubusercontent.com/82774618/151198832-c0ec455a-cbd9-4c52-ac56-478648ef247b.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooseterv&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true)
+
 
 <br/>
 
@@ -37,10 +39,6 @@ i'm fluent and english and spanish, decent speaking skills in japanese (still le
 </br>
 
 ## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooseterv&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true)
- 
-<br />
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gooseterv&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="GooseterV" style="margin-bottom:25px;"/></p>
 
