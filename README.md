@@ -18,9 +18,9 @@ if you need something contact me on discord at Goose#4825
 
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=black&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=css3&logoColor=black&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
 <br/>
-![Python](https://img.shields.io/badge/PYTHON-4B8BBE?logo=python&logoColor=black&style=for-the-badge&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-4B8BBE?logo=python&logoColor=black&style=for-the-badge)&nbsp;
 ![Lua](https://img.shields.io/badge/LUA-0000ff?logo=lua&logoColor=black&style=for-the-badge)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f89820?logo=java&logoColor=black&style=for-the-badge)&nbsp;
 <br/>
