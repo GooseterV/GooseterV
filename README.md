@@ -20,9 +20,7 @@ if you need something contact me on discord at Goose#4825
 ![HTML](https://user-images.githubusercontent.com/82774618/151198706-11327e82-9cf1-4b71-b204-c7f7eec8c682.png)
 ![CSS](https://user-images.githubusercontent.com/82774618/151198707-588b9a95-c818-4fb1-8777-7f3680a31509.png)
 ![JavaScript](https://user-images.githubusercontent.com/82774618/151198710-21a20a40-a239-46a0-8659-745dbf5fc20d.png)
-
 <br/>
-
 ![Lua](https://user-images.githubusercontent.com/82774618/151198790-3ca42468-cb91-4952-bfc4-059bae341ca2.png)
 ![Java](https://user-images.githubusercontent.com/82774618/151198792-d68e4242-62ba-451b-a739-a0dcdff42565.png)
 ![Python](https://user-images.githubusercontent.com/82774618/151198832-c0ec455a-cbd9-4c52-ac56-478648ef247b.png)
