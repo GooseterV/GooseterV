@@ -1,4 +1,5 @@
 
+
 ## Hi, I'm Gus (●'◡'●)
 
 he/him, python dev
@@ -16,6 +17,7 @@ if you need something contact me on discord at Goose#4825
 
 ### Languages
 
+![JavaScript](https://user-images.githubusercontent.com/82774618/151195705-c8c2d73e-7fd5-4bc2-8f99-8921f7351db7.png)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=black&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=css3&logoColor=black&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
