@@ -22,7 +22,7 @@ if you need something contact me on discord at Goose#4825
 <br/>
 ![Python](https://img.shields.io/badge/PYTHON-ff69b4?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![Lua](https://img.shields.io/badge/LUA-ff69b4?style=for-the-badge&logo=lua&logoColor=black)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-ff69b4?style=for-the-badge&logo=ruby&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 <br/>
 
 
