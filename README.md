@@ -13,7 +13,8 @@ i watch too much anime
 average card game enthusiast
 </br>
 if you need something contact me on discord at Goose#4825
-
+</br>
+i'm fluent and english and spanish, decent speaking skills in japanese (still learning)
 
 ### Languages
 
