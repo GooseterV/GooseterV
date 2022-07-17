@@ -2,7 +2,7 @@
 
 ## Hi, I'm Gus (●'◡'●)
 
-he/him, python dev
+python, nodejs and frontend dev
 </br>
 addicted to all things winter
 </br>
@@ -14,7 +14,7 @@ average card game enthusiast
 </br>
 if you need something contact me on discord at Goose#4825
 </br>
-i'm fluent and english and spanish, decent speaking skills in japanese (still learning)
+trilingual
 
 ### Languages
 
