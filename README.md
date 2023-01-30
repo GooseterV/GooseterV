@@ -47,7 +47,7 @@ trilingual
 <br />
 
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gooseterv&theme=gotham)  
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GooseterV&bg_color=2c2a2b&color=ecdfeb&line=13be66&point=17de77&area=true&hide_border=true)
 
 
 
