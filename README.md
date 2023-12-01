@@ -1,20 +1,16 @@
 
 
-## Hi, I'm Gus (●'◡'●)
+## Hi, I'm Gus (⁠ʘ⁠ᴗ⁠ʘ)
 
 python, nodejs and frontend dev
 </br>
 addicted to all things winter
 </br>
-i play too much apex
-</br>
-i watch too much anime
+i play too much games
 </br>
 average card game enthusiast
 </br>
-if you need something contact me on discord at Goose#4825
-</br>
-trilingual
+math nerd 🤓
 
 ### Languages
 
@@ -32,7 +28,6 @@ trilingual
 <br/>
 
 ### Development Tools
-![Heroku](https://user-images.githubusercontent.com/82774618/151200001-900a9286-35a4-485d-a351-78f5fbf6b555.png)
 ![VS Code](https://user-images.githubusercontent.com/82774618/151200050-1b4a7281-5aef-4aaa-8a1b-977bb496b3bd.png)
 ![GitHub](https://user-images.githubusercontent.com/82774618/151200003-0f189e21-30e6-4547-9c80-49538c68a88b.png)
 
