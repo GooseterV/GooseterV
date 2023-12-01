@@ -11,6 +11,7 @@ i play too much games
 average card game enthusiast
 </br>
 math nerd 🤓
+discord is `gooseterv`
 
 ### Languages
 
