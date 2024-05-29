@@ -10,7 +10,7 @@ i play too much games
 </br>
 average card game enthusiast
 </br>
-math nerd 🤓
+trombone nerd 🤓
 discord is `gooseterv`
 
 ### Languages
